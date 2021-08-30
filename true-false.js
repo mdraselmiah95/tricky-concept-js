@@ -25,9 +25,9 @@ anything else that is not falsy will be truthy
 // let x = null;
 // let x = NaN;
 // let x = [];
-let x = {};
+// let x = {};
 
-
+let x = undefined;
 if (x) {
     console.log('variable is Truthy.')
 } else {
