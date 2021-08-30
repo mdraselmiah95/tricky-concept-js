@@ -23,10 +23,23 @@ const num2 = 5;
 const num3 = 7;
 // triple(num1, num2, num3);
 const myObj = {
-    name: 'kuddus',
+    name: 'ASif',
     age: 17
 };
 triple(myObj);
 console.log(myObj);
 // console.log(num1, num2, num3);
-// console.log(typeof null);
+// console.log(typeof null); = object
+
+
+
+
+//primitive type
+//non primitive type
+
+//array isArray(para)
+
+function numbers(num1, num2, num3, num4) {
+
+}
+console.log(numbers.length);
